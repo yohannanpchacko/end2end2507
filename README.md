@@ -8,5 +8,5 @@ git add abc.txt
 git add .
 ```
 ```
-git commit -m "This is my first Commit"
+git commit -m "This is my seco Commit"
 ```
